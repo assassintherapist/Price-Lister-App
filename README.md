@@ -1,0 +1,3 @@
+# Price-Lister-App
+
+The Price Lister app is an Android Studio application designed to help users manage and track item prices conveniently. Built with SQLite, it includes a user-friendly interface featuring an item list that displays each item's title, description, price, and image. Users can add items through an 'Add' button, view and search for items on the main activity screen, and perform CRUD operations. A QR code feature enhances the app's functionality, allowing quick access to item details. Designed with small vendors, school canteens, individuals with memory challenges, and students in mind, the app aims to simplify inventory and price management for various needs.
